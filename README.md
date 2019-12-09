@@ -59,6 +59,60 @@ Actions
 3.	Demonstrate usage of list comprehension for at least one of the tasks - DONE
 4.	Allow user input to run all of your script, or specific sections - DONE
 
+* Code Requirements
+
+1.	Read in the attached file - DONE
+a.	Produce a list sorted by “Current Rent” in ascending order - DONE
+b.	Obtain the first 5 items from the resultant list and output to the console - DONE
+2.	From the list of all mast data, create a new list of mast data with “Lease Years” = 25 years. - DONE
+a.	Output the list to the console, including all data fields - DONE
+b.	Output the total rent for all items in this list to the console - DONE
+3.	Create a dictionary containing tenant name and a count of masts for each tenant - DONE
+a.	Output the dictionary to the console in a readable form - DONE
+4.	List the data for rentals with “Lease Start Date” between 1st June 1999 and 31st August 2007 - DONE
+a.	Output the data to the console with dates formatted as DD/MM/YYYY - DONE
+
+To run all requirements
+```
+cd DGBink
+python solution.py --requirement all
+
+```
+
+To run requirement 1
+```
+cd DGBink
+python solution.py --requirement 1
+
+```
+
+To run requirement 2
+```
+cd DGBink
+python solution.py --requirement 2
+
+```
+
+To run requirement 3
+```
+cd DGBink
+python solution.py --requirement 3
+
+```
+
+To run requirement 4
+```
+cd DGBink
+python solution.py --requirement 4
+
+```
+
+* Going above and beyond
+1. Implemented Logger class
+1.1. Ensured that if duplicate log handlers are not created
+2. Docstrings numpy style
+3. Set up some class methods for their use as properties instead of methods
+4. Implement File Logging in addition to Console Logging
 
 
 ### Who do I talk to? ###
