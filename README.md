@@ -5,6 +5,7 @@ DG solution to Bink test
 # ================================================ #
 # Author: Darshan Gadkari
 # Date: Dec 6, 2019
+# Last Updated: Dec 9, 2019
 # Bink's Coding Test
 # ================================================ #
 ```
@@ -38,6 +39,7 @@ Please install the requirements from requirements.txt
 ```
 cd DGBink
 pip install -r requirements.txt
+mkdir logs
 ```
 
 * How to run tests
