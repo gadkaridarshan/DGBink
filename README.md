@@ -54,10 +54,10 @@ pytest -vs (to print console logs while testing)
 A data file will be provided alongside this test. The dataset is a CSV which contains publicly available data about mobile phone masts in an area of the UK. This file contains un-normalised data (such as multiple variations of Tenant Name) – treat these as individual tenants.
 
 Actions
-1.	Load the data file, process and output the data in the forms specified
-2.	Read in, process and present the data as specified in the requirements section
-3.	Demonstrate usage of list comprehension for at least one of the tasks
-4.	Allow user input to run all of your script, or specific sections
+1.	Load the data file, process and output the data in the forms specified - DONE
+2.	Read in, process and present the data as specified in the requirements section - DONE
+3.	Demonstrate usage of list comprehension for at least one of the tasks - DONE
+4.	Allow user input to run all of your script, or specific sections - DONE
 
 
 
